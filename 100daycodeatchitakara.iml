@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/cp54" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cp55" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cp58" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cp59" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cp60" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cp61" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cp62" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cp63" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cp64" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cp65" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cp66" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cp67" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cp68" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cp69" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cp70" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cp71" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cp72" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cp73" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cp74" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cp75" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cp76" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cp79" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cp80" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cp81" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cp82" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cp83" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cp84" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/day77" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/messi" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cp93" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cp95" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
